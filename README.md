@@ -2,7 +2,7 @@
   
 # Hi there, I'm Cao Minh Quang 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Enthusiast;Infrastructure+Engineering;Computer+Networks+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Engineer;Infrastructure+Engineering;Computer+Networks+Student)](https://git.io/typing-svg)
 
 **Building reliable, scalable, and automated systems.** ☁️
 
