@@ -2,7 +2,7 @@
 
 I'm a Computer Networks and Communications student at the University of Information Technology (UIT), VNU-HCM, passionate about DevOps, Cloud, and Infrastructure Engineering.
 
-Currently, I'm building hands-on projects with AWS, Kubernetes, Docker, Terraform, and CI/CD while continuously expanding my knowledge of Linux, networking, and cloud infrastructure. My goal is to become an Infrastructure/DevOps Engineer who builds reliable, scalable, and automated systems.
+Currently, I'm building hands-on projects with AWS, Kubernetes, Docker, Terraform, and CI/CD while continuously expanding my knowledge of Linux, networking, and cloud infrastructure. My goal is to become an DevOps Engineer who builds reliable, scalable, and automated systems.
 
 ---
 
