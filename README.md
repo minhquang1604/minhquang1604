@@ -53,15 +53,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=radical&hide_border=true&title_color=2F81F7" alt="Quang's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=radical&hide_border=true&title_color=2F81F7" alt="Top Languages" />
-</div>
-
-<br/>
-
 ### 📫 Let's Connect!
 
 <div align="center">
