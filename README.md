@@ -10,7 +10,7 @@ Currently, I'm building hands-on projects with AWS, Kubernetes, Docker, Terrafor
 
 **Cloud**
 
-* AWS (EC2, ECS, EKS, VPC, S3, Load Balancer)
+* AWS (EC2, ECS, EKS, VPC, S3, Load Balancer,...)
 
 **Infrastructure**
 
