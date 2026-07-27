@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a Computer Networks and Communications student at the **University of Information Technology (UIT), VNU-HCM**.
-- 💡 Passionate about **DevOps, Cloud Architecture, and Infrastructure Engineering**.
+- 💡 Passionate about **DevOps, Cloud Architecture**.
 - 🚀 Currently building hands-on projects with **AWS, Kubernetes, Docker, Terraform**, and robust **CI/CD** pipelines.
 - 🌱 Continuously expanding my knowledge in Linux internals, networking protocols, and cloud-native ecosystems.
 - 🎯 **My Goal:** To become a highly skilled DevOps Engineer who connects the gap between development and operations.
